@@ -103,21 +103,23 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jheinel-brown-474653272/" target="blank">
-    <img align="center" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  &emsp;
   <a href="https://twitter.com/BrownJheinel" target="blank">
-    <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/twitter-1521309-1287141.png" alt="twitter" height="40" width="40" />
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="twitter" />
   </a>
-  &emsp;
   <a href="https://www.instagram.com/jheinelbrown/" target="blank">
-    <img align="center" src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
-  &emsp;
   <a href="https://www.youtube.com/@DarkBrown07" target="blank">
-    <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-youtube-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-1401657.png?f=webp&w=512" alt="youtube" height="40" width="40" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86AB,100:6A00F4&height=140&section=footer"/>
+</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86AB,100:6A00F4&height=140&section=footer"/>
