@@ -119,8 +119,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86AB,100:6A00F4&height=140&section=footer"/>
 </p>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86AB,100:6A00F4&height=140&section=footer"/>
-</p>
