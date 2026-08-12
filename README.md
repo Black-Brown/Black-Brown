@@ -5,21 +5,21 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=6A00F4&size=25&center=true&vCenter=true&width=650&lines=Tech+Educator;Robotics+%26+Programming+Instructor;Learning+C%23+%26+API+Development;Building+mBot+Robotics+Curriculum"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=6A00F4&size=25&center=true&vCenter=true&width=650&lines=PHP+%26+C%23+Developer;Frontend+%2B+Backend;Learning+API+Development;Building+Real+Projects+to+Learn"/>
 </p>
 
 ---
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
-- 🎓 Tech educator — I teach **programming and robotics**
-- 🤖 Building a full **mBot robotics curriculum** for secondary school students (1°–3°), from block-based programming through Python/C++
-- 🌱 Learning to build **professional APIs with C#**, practicing with real hands-on projects
-- 🛒 Currently building a delivery/order system API for a Dominican *colmado* as a practice project
-- 🏗 Previously practiced OOP fundamentals with a banking system project in C#
+- 💻 I specialize in **PHP** (frontend & backend) and **C#**
+- 🌱 Learning to build **professional APIs with C#**, practicing through real projects
+- 🛒 Currently building a delivery/order system API for a Dominican *colmado*
+- 🏦 Practiced OOP fundamentals with a banking system project in C#
+- 🧠 Focused on writing clean, well-structured code as I learn
 - 📍 Dominican Republic
 
-✨ Open to collaborating on educational tech and robotics projects ✨
+✨ Open to feedback, collaboration & new project ideas ✨
 
 ---
 
@@ -41,16 +41,30 @@
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![mBot](https://img.shields.io/badge/mBot%20Robotics-00A3E0?style=for-the-badge)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 </p>
+
+---
+
+## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> Featured Projects
+
+- **[CuadernoNota](https://github.com/Black-Brown/CuadernoNota)** — Personal project
+- **[BarberQueue](https://github.com/Black-Brown/BarberQueue)** — Personal project
+- **[TaPasandoRD](https://github.com/Black-Brown/TaPasandoRD)** — Personal project
+- **[SRegistrationProgram-](https://github.com/Black-Brown/SRegistrationProgram-)** — C# practice project
+- **[CineFans](https://github.com/Black-Brown/CineFans)** — C# project
+- **Colmado Delivery System** — C# API practice for a delivery/order system
+- **Banking System** — OOP practice project in C#
 
 ---
 
@@ -58,15 +72,13 @@
 
 🚀 Master professional API design and development in C#
 
-🤖 Grow the mBot curriculum into a full robotics program across all secondary grades
-
 🏗 Deepen my understanding of clean, scalable software architecture
 
-🧠 Bridge software development skills with hands-on classroom teaching
+🎨 Keep leveling up frontend work with Bootstrap and Tailwind
 
-🌍 Build tools and projects with real social impact
+🗄 Get comfortable designing and managing databases
 
-📈 Keep growing technically, one project at a time
+📈 Keep building and learning, one project at a time
 
 ---
 
