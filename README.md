@@ -59,12 +59,10 @@
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> Featured Projects
 
 - **[CuadernoNota](https://github.com/Black-Brown/CuadernoNota)** — Personal project
-- **[BarberQueue](https://github.com/Black-Brown/BarberQueue)** — Personal project
-- **[TaPasandoRD](https://github.com/Black-Brown/TaPasandoRD)** — Personal project
+- **[BarberQueue](https://github.com/Black-Brown/BarberQueue)** — Final project
+- **[TaPasandoRD](https://github.com/Black-Brown/TaPasandoRD)** — Final project
 - **[SRegistrationProgram-](https://github.com/Black-Brown/SRegistrationProgram-)** — C# practice project
 - **[CineFans](https://github.com/Black-Brown/CineFans)** — C# project
-- **Colmado Delivery System** — C# API practice for a delivery/order system
-- **Banking System** — OOP practice project in C#
 
 ---
 
