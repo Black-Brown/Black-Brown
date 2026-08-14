@@ -14,8 +14,6 @@
 
 - 💻 I specialize in **PHP** (frontend & backend) and **C#**
 - 🌱 Learning to build **professional APIs with C#**, practicing through real projects
-- 🛒 Currently building a delivery/order system API for a Dominican *colmado*
-- 🏦 Practiced OOP fundamentals with a banking system project in C#
 - 🧠 Focused on writing clean, well-structured code as I learn
 - 📍 Dominican Republic
 
@@ -62,7 +60,7 @@
 - **[BarberQueue](https://github.com/Black-Brown/BarberQueue)** — Final project
 - **[TaPasandoRD](https://github.com/Black-Brown/TaPasandoRD)** — Final project
 - **[SRegistrationProgram-](https://github.com/Black-Brown/SRegistrationProgram-)** — C# practice project
-- **[CineFans](https://github.com/Black-Brown/CineFans)** — C# project
+- **[CineFans](https://github.com/Black-Brown/CineFans)** — C# Final project
 
 ---
 
